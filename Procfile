@@ -1,1 +1,1 @@
-web: node run app.js
+web: slc run
